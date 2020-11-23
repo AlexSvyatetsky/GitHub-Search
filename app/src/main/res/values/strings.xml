@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">GitHub Search</string>
+    <string name="menu_item_search">Search</string>
+    <string name="enter_text_in_search">Enter text in search</string>
+    <string name="repo_name">Name: %s</string>
+    <string name="stars">Stars: %s</string>
+</resources>
